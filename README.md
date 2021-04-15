@@ -5,9 +5,8 @@ Application takes as an input images from the folder "inputs" and performs angle
 An image is returned with lines indicating the toe bend and an angle. 
 Functionality achieved in 2 ways: using *OpenCV* and *Sci-Image* libraries.
 
-> *Used algorithms*: 
-> - Hough Transform 
-> Annotations:
+> *Used algorithm:* Hough Transform\
+>  Annotations:
 > - cv2_angles requires package:
 > - opencv-contrib-python NOT opencv-python
 > - scimage_angles include 2 implementations of skeletonization: lee and medial axis.
