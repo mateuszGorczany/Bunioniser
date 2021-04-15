@@ -9,7 +9,7 @@ Functionality achieved in 2 ways: using *OpenCV* and *Sci-Image* libraries.
 > - Hough Transform 
 > - Medial Axis Skeletonization
 
-**Examples**:\
+**Example**:\
 Input:\
 ![drawing](https://github.com/mateuszGorczany/Bunioniser/blob/main/input/img_0007_mask_Unet_toe.png)
 
