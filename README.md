@@ -7,7 +7,10 @@ Functionality achieved in 2 ways: using *OpenCV* and *Sci-Image* libraries.
 
 > *Used algorithms*: 
 > - Hough Transform 
-> - Medial Axis Skeletonization
+> Annotations:
+> - cv2_angles requires package:
+> - opencv-contrib-python NOT opencv-python
+> - scimage_angles include 2 implementations of skeletonization: lee and medial axis.
 
 **Example**:\
 Input:\
